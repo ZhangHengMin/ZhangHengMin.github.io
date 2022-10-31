@@ -13,19 +13,4 @@
 - date: August 24th, 2021
   headline: I upload a <a href="https://github.com/Claydon-Wang/GUI-for-HAR">GUI</a> for <a href="https://www.cis.fordham.edu/wisdm/dataset.php">WISDM</a> which can be used to predict activity classification based on wearable devices.
 
-- date: August 23th, 2021 
-  headline: My first "First-Author" paper is submitted to <a href="https://www.journals.elsevier.com/neurocomputing">Neurocomputing</a>. Wish me luck!
-
-- date: August 20th, 2021
-  headline: I upload our <a href="https://github.com/Claydon-Wang/record-for-SETI">configs</a> and loss functions used in <a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI</a>.
-
-- date: August 18th, 2021
-  headline: I won a Silver medal for <a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI Breakthrough Listen -E.T. Signal Search</a> in Kaggle. Our team ranks 14th out of 748(<strong>Top 2%</strong>).
-
-- date: May 24th, 2021
-  headline: I release <a href="https://github.com/Claydon-Wang/Addernet-CUDA">accelerated addernet</a> for HAR based on CUDA Programming.
-
-- date: March 2nd, 2021
-  headline: I update my homework of <a href="http://cs231n.stanford.edu/">CS231n</a> in <a href="https://github.com/Claydon-Wang/cs231n_master">github</a>, which adds Chinese commentary.
-
 
