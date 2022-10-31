@@ -40,12 +40,12 @@ pattern recognition, nonconvex optimization algorithms, and large-scale represen
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="80%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="90%" />
   </ul>
 
   <!-- <br clear="all" /> -->
 
-  Github&Gitlab: <a href="https://github.com/ZhangHengMin">ZhangHengMin</a> & <a href="https://gitlab.com/ZhangHengMin">ZhangHengMin</a> <br>
+  Github: <a href="https://github.com/ZhangHengMin">ZhangHengMin</a> <br>
   ORCID: <a href="https://orcid.org/0000-0003-1795-4161">0000-0003-1795-4161</a> <br>   
   Google Scholar: <a href="https://scholar.google.com/citations?user=a1yd0H4AAAAJ&hl=zh-CN&oi=sra">Hengmin Zhang</a> <br>
    
