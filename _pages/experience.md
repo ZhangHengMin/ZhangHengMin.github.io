@@ -22,7 +22,7 @@ permalink: /experience
 
 <p>&nbsp;</p>
 
-<h3>Work Experience</h1>
+<h1>Work Experience</h1>
 <p>Not available</p>
 
 <p>&nbsp;</p>
@@ -39,7 +39,7 @@ permalink: /experience
 
 <p>&nbsp;</p>
 
-<h3>Work Experience</h2>
+<h2>Work Experience</h2>
 <p>Not available</p>
 
 
@@ -57,5 +57,4 @@ permalink: /experience
 
 <p>&nbsp;</p>
 
-<h3>Work Experience</h3>
-<p>Not available</p>
+ 
