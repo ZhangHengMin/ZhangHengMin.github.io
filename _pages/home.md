@@ -45,9 +45,9 @@ pattern recognition, nonconvex optimization algorithms, and large-scale represen
 
   <!-- <br clear="all" /> -->
 
-  Github: <a href="https://github.com/ZhangHengMin">ZhangHengMin</a> <br>
-  Email: <a href="https://orcid.org/0000-0003-1795-4161">0000-0003-1795-4161</a> <br>   
   Google Scholar: <a href="https://scholar.google.com/citations?user=a1yd0H4AAAAJ&hl=zh-CN&oi=sra">Hengmin Zhang</a> <br>
+  Email: <a href="https://orcid.org/0000-0003-1795-4161">0000-0003-1795-4161</a> <br>   
+  
    
 
 
