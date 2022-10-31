@@ -1,7 +1,7 @@
 ---
-title: "Shuoyuan Wang - MIA"
+title: "Hengmin Zhang - MIA"
 layout: gridlay
-excerpt: "Shuoyuan Wang -- MIA"
+excerpt: "Hengmin Zhang -- MIA"
 sitemap: false
 permalink: /MIA/
 ---
