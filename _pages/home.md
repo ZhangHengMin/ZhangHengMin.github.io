@@ -1,7 +1,7 @@
 ---
-title: "Shuoyuan Wang - Home"
+title: "Hengmin Zhang - Home"
 layout: gridlay
-excerpt: "Shuoyuan Wang"
+excerpt: "Hengmin Zhang"
 sitemap: false
 permalink: /
 ---
@@ -11,7 +11,7 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-8">
-I am currently pursuing the Bachelor's degree of <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China. My recent research interests are in Machine Learning, Deep Learning and Human Activity Recognition(HAR) using wearables. <a href="https://scholar.google.com/citations?hl=zh-CN&user=n1qFlf8AAAAJ">A.P Lei Zhang</a> is my advisor. I am willing to dive into data-driven research including Machine Learning, Edge-AI, Computer Vision, Computational Biology, etc. <br> Remimd the date: <a href="https://aideadlin.es/?sub=ML,CV">AI</a> and <a href="https://ccfddl.github.io/">CCF</a>
+Dr Zhang is willing to dive into data-driven research including Machine Learning, Edge-AI, Computer Vision, Computational Biology, etc. <br> Remimd the date: <a href="https://aideadlin.es/?sub=ML,CV">AI</a> and <a href="https://ccfddl.github.io/">CCF</a>
 
 
 ### CV
@@ -34,7 +34,7 @@ You can download my [CV (English Version)](https://claydon-wang.github.io//paper
 
   <!-- <br clear="all" /> -->
 
-  Shuoyuan Wang (王朔远)<br>  
+  Hengmin Zhang (张恒敏)<br>  
   <a href="http://d.njnu.edu.cn/">School of Electric and Autumation Engineerning</a> <br>  
   <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a> <br>  
   Nanjing, Jiangsu, China. <br>  

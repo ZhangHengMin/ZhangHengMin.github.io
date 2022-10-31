@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: gridlay
-excerpt: "Shuoyuan Wang"
+excerpt: "Hengmin Zhang"
 sitemap: false
 permalink: /allnews.html
 ---

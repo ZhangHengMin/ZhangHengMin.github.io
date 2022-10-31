@@ -1,7 +1,7 @@
 ---
-title: "Shuoyuan Wang - Experience"
+title: "Hengmin Zhang - Experience"
 layout: gridlay
-excerpt: "Shuoyuan Wang: Experience"
+excerpt: "Hengmin Zhang: Experience"
 sitemap: false
 permalink: /experience
 ---

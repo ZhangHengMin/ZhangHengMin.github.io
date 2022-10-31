@@ -1,12 +1,12 @@
 ---
-title: "Shuoyuan Wang - GUI for HAR"
+title: "Hengmin Zhang - GUI for HAR"
 layout: gridlay
-excerpt: "Shuoyuan Wang -- GUI for HAR"
+excerpt: "Hengmin Zhang -- GUI for HAR"
 sitemap: false
 permalink: /gui/
 ---
 
-### GUI for Human Activity Recognition using wearable devices
+### GUI for Human Activity Recognition using wearable devices22
 
 <center>
 <figure>
