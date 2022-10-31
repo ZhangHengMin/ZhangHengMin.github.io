@@ -22,9 +22,6 @@ permalink: /experience
 
 <p>&nbsp;</p>
 
-<h1>Work Experience</h1>
-<p>Not available</p>
-
 <p>&nbsp;</p>
 
 <h2>Education</h2>
@@ -38,9 +35,6 @@ permalink: /experience
 <p>Advisor: <a href="http://d.njnu.edu.cn/person/3288.html">A.P. 222 Zhang</a> </p>
 
 <p>&nbsp;</p>
-
-<h2>Work Experience</h2>
-<p>Not available</p>
 
 
 <p>&nbsp;</p>
