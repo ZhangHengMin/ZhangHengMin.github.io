@@ -11,7 +11,19 @@ permalink: /
 <div class="row">
 
 <div class="col-sm-8">
-Dr Zhang is willing to dive into data-driven research including Machine Learning, Edge-AI, Computer Vision, Computational Biology, etc. <br> Remimd the date: <a href="https://aideadlin.es/?sub=ML,CV">AI</a> and <a href="https://ccfddl.github.io/">CCF</a>
+Dr Zhang received the B.S. degree from the
+School of Mathematics and Statistics, Heze University, Heze, China, in 2010, the M.S. degree from the
+College of Science, China University of Mining and
+Technology (CUMT), Xuzhou, China, in 2013, and
+the Ph.D. degree from the School of Computer Science and Engineering, Nanjing University of Science
+and Technology (NUST), Nanjing, China, in 2019.
+He was a Post-Doctoral Fellow with the School
+of Information Science and Engineering, East China
+University of Science and Technology (ECUST),
+Shanghai, China, from 2019 to 2021. He is currently a Post-Doctoral Fellow
+with the PAMI Research Group, Department of Computer and Information
+Science, University of Macau (UM), Macau. His research interests include
+pattern recognition, nonconvex optimization algorithms, and large-scale representation learning methods.
 
 
  
