@@ -13,11 +13,11 @@ permalink: /experience
 
 <p><em>(Sept &rsquo;18 &ndash; Now )</em></p>
 
-<p><strong>Nanjing Normal University</strong>, Nanjing, Jiangsu, China</p>
+<p><strong>Nanjing Normal University</strong>, Nanjing, Jiangsu, ppChina</p>
 
-<p>Bachelor degree in Electrical and Electronic Engineering (GPA:87.84/100)</p>
+<p>Bachelor degree in Electrical and Electronic Engineering (GPA:87.84/200)</p>
 
-<p>Advisor: <a href="http://d.njnu.edu.cn/person/3288.html">A.P. Lei Zhang</a> </p>
+<p>Advisor: <a href="http://d.njnu.edu.cn/person/3288.html">A.P. 222 Zhang</a> </p>
 
 <p>&nbsp;</p>
 

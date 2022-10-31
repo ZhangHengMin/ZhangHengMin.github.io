@@ -1,7 +1,7 @@
 ---
-title: "Shuoyuan Wang - Explorations"
+title: "Hengmin Zhang - Explorations"
 layout: gridlay
-excerpt: "Shuoyuan Wang: Explorations"
+excerpt: "Hengmin Zhang: Explorations"
 sitemap: false
 permalink: /explorations
 ---
