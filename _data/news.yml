@@ -1,0 +1,34 @@
+- date: November 9th, 2021
+  headline: One paper(co-author) is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19">IEEE Transactions on Instrumentation and Measurement</a>.
+
+- date: October 7th, 2021
+  headline: One paper(joint first author) is accepted by <a href="https://www.springer.com/journal/11227/?gclid=Cj0KCQjwssyJBhDXARIsAK98ITRtIE7ORQzxl1nV9DLF1r5Gsbh1BbAagPoF7ONngsYaC4ZtDfJ5-I8aApk7EALw_wcB">The Journal of Supercomputing</a>(CCF-C).
+
+- date: September 26th, 2021
+  headline: The graduation project "Data-driven weakly-labeled daily activity detection from wearable sensors" is confirmed with supervisor <a href="https://scholar.google.com/citations?hl=zh-CN&user=FLmB8JUAAAAJ&view_op=list_works&sortby=pubdate"> Xuewu Dai</a>. 
+
+- date: August 29th, 2021
+  headline: I summarize our <a href="https://claydon-wang.github.io/seti">experimental records</a> in the SETI competition. Few-shot Learning is closer to learning knowledge in human brain.
+
+- date: August 25th, 2021
+  headline: My <a href="https://claydon-wang.github.io/">homepage</a> is created!
+
+- date: August 24th, 2021
+  headline: I upload a <a href="https://github.com/Claydon-Wang/GUI-for-HAR">GUI</a> for <a href="https://www.cis.fordham.edu/wisdm/dataset.php">WISDM</a> which can be used to predict activity classification based on wearable devices.
+
+- date: August 23th, 2021 
+  headline: My first "First-Author" paper is submitted to <a href="https://www.journals.elsevier.com/neurocomputing">Neurocomputing</a>. Wish me luck!
+
+- date: August 20th, 2021
+  headline: I upload our <a href="https://github.com/Claydon-Wang/record-for-SETI">configs</a> and loss functions used in <a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI</a>.
+
+- date: August 18th, 2021
+  headline: I won a Silver medal for <a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI Breakthrough Listen -E.T. Signal Search</a> in Kaggle. Our team ranks 14th out of 748(<strong>Top 2%</strong>).
+
+- date: May 24th, 2021
+  headline: I release <a href="https://github.com/Claydon-Wang/Addernet-CUDA">accelerated addernet</a> for HAR based on CUDA Programming.
+
+- date: March 2nd, 2021
+  headline: I update my homework of <a href="http://cs231n.stanford.edu/">CS231n</a> in <a href="https://github.com/Claydon-Wang/cs231n_master">github</a>, which adds Chinese commentary.
+
+

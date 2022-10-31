@@ -1,0 +1,51 @@
+- title: Looking for Aliens! -- SETI Breakthrough Listen Competition
+  image: SETI.jpg
+  description: The target of SETI competition is to identify anomalous signals in scans of Breakthrough Listen based on approaches from computer vision. We record our experimental procedure and rank 14/768(Top 2%).
+  participants: Shuoyuan Wang, <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=U_9vNgsAAAAJ">Haiyang Liu</a>, et al
+  venue: 
+  number_link: 3
+  link1:
+    url: https://www.kaggle.com/c/seti-breakthrough-listen
+    display: competition page
+  link2:
+    url: https://github.com/Claydon-Wang/record-for-SETI
+    display: code(github)
+  link3:
+    url: https://claydon-wang.github.io/seti
+    display: experiment record
+
+- title: A GUI based on Tkinter for real-time Human Activity Recognition
+  image: GUI.png
+  description: We use a Graphical User Interface(GUI) based on Tkinter to visualize the activity classification. For quantitative comparison, we also show the model type and inference time.
+  participants: Shuoyuan Wang, <a href="https://github.com/Chauncey-Wang">Xin Wang</a> .
+  venue: 
+  number_link: 2
+  link1:
+    url: https://claydon-wang.github.io/gui
+    display: project page
+  link2:
+    url: https://github.com/Claydon-Wang/GUI-for-HAR
+    display: code(github)
+
+- title: Reducing training memory costs of hardware-friendly addernet for Human Activity Recognition by CUDA programming
+  image: Addernet.png
+  description: The original AdderNet Repo considers using PyTorch for add absed convolution, but it will trap in memory explosion without CUDA support. We give the accelerated version and can be used both in CV and HAR.
+  participants: Shuoyuan Wang.
+  venue: 
+  number_link: 2
+  link1:
+    url: https://claydon-wang.github.io/adder
+    display: project page
+  link2:
+    url: https://github.com/Claydon-Wang/Addernet-CUDA
+    display: code(github)
+
+# - title: Reproduct paper on surgical video analysis
+#   image: 
+#   description: Reproduct paper on surgical video analysis.
+#   participants: Shuoyuan Wang.
+#   venue: 
+#   number_link: 1
+#   link1:
+#     url: https://claydon-wang.github.io/MIA
+#     display: project page
