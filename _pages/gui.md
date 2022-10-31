@@ -39,7 +39,7 @@ Multimodal sensor signals in WISDM
 </figure>
 </center>
 
-- The model in the Figure is algorithms based on machine learning or deep learning. We give the example of CNNs in our <a href="https://github.com/Claydon-Wang/GUI-for-HAR">respositories</a>. The model can be trained in remote server and further deployed on mobile devices like Raspberry Pi. Hence, we can intuitively evaluate the model efficiency through metrics such as inference time.
+- The model in the Figure is algorithms based on machine learning or deep learning. We give the example of CNNs in our <a href="https://github.com/ZhangHengMin/GUI-for-HAR">respositories</a>. The model can be trained in remote server and further deployed on mobile devices like Raspberry Pi. Hence, we can intuitively evaluate the model efficiency through metrics such as inference time.
 - WISDM dataset contains 6 activities:
 <center>
 <figure>
@@ -95,4 +95,4 @@ Results example
 </center>
 
 #### Acknowledgements
-Thank to my friend <a href="https://github.com/Chauncey-Wang">Xin Wang</a> for the discussion and help in this project.
+Thank to my friend <a href="https://github.com/ZhangHengMin">Xin Wang</a> for the discussion and help in this project.
