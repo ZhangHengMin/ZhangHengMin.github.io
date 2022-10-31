@@ -1,30 +1,30 @@
 - title: Looking for Aliens! -- SETI Breakthrough Listen Competition
   image: SETI.jpg
   description: The target of SETI competition is to identify anomalous signals in scans of Breakthrough Listen based on approaches from computer vision. We record our experimental procedure and rank 14/768(Top 2%).
-  participants: Shuoyuan Wang, <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=U_9vNgsAAAAJ">Haiyang Liu</a>, et al
+  participants: Hengmin Zhang, <a href="https://scholar.google.com/citations?user=a1yd0H4AAAAJ&hl=zh-CN&oi=sra">Haiyang Liu</a>, et al
   venue: 
   number_link: 3
   link1:
     url: https://www.kaggle.com/c/seti-breakthrough-listen
     display: competition page
   link2:
-    url: https://github.com/Claydon-Wang/record-for-SETI
+    url: https://github.com/ZhangHengMin/record-for-SETI
     display: code(github)
   link3:
-    url: https://claydon-wang.github.io/seti
+    url: https://ZhangHengMin.github.io/seti
     display: experiment record
 
 - title: A GUI based on Tkinter for real-time Human Activity Recognition
   image: GUI.png
   description: We use a Graphical User Interface(GUI) based on Tkinter to visualize the activity classification. For quantitative comparison, we also show the model type and inference time.
-  participants: Shuoyuan Wang, <a href="https://github.com/Chauncey-Wang">Xin Wang</a> .
+  participants: Shuoyuan Wang, <a href="https://github.com/ZhangHengMin">Xin Wang</a> .
   venue: 
   number_link: 2
   link1:
-    url: https://claydon-wang.github.io/gui
+    url: https://ZhangHengMin.github.io/gui
     display: project page
   link2:
-    url: https://github.com/Claydon-Wang/GUI-for-HAR
+    url: https://github.com/ZhangHengMin/GUI-for-HAR
     display: code(github)
 
 - title: Reducing training memory costs of hardware-friendly addernet for Human Activity Recognition by CUDA programming
@@ -34,10 +34,10 @@
   venue: 
   number_link: 2
   link1:
-    url: https://claydon-wang.github.io/adder
+    url: https://ZhangHengMin.github.io/adder
     display: project page
   link2:
-    url: https://github.com/Claydon-Wang/Addernet-CUDA
+    url: https://github.com/ZhangHengMin/Addernet-CUDA
     display: code(github)
 
 # - title: Reproduct paper on surgical video analysis
@@ -47,5 +47,5 @@
 #   venue: 
 #   number_link: 1
 #   link1:
-#     url: https://claydon-wang.github.io/MIA
+#     url: https://ZhangHengMin.github.io/MIA
 #     display: project page
