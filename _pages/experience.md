@@ -10,8 +10,6 @@ permalink: /experience
 
 <p>&nbsp;</p>
 
-<h1>Education</h1>
-
 <p><em>(Sept &rsquo;18 &ndash; Now )</em></p>
 
 <p><strong>Nanjing Normal University</strong>, Nanjing, Jiangsu, ppChina</p>
@@ -24,7 +22,7 @@ permalink: /experience
 
 <p>&nbsp;</p>
 
-<h2>Education</h2>
+
 
 <p><em>(Sept &rsquo;18 &ndash; Now )</em></p>
 
@@ -39,7 +37,6 @@ permalink: /experience
 
 <p>&nbsp;</p>
 
-<h3>Education</h3>
 
 <p><em>(Sept &rsquo;18 &ndash; Now )</em></p>
 
