@@ -2,11 +2,11 @@ theme: jekyll-theme-architect
 
 # Site settings
 title: Hengmin Zhang
-email: claytonwang0205@gmail.com
-description: Home Page of Shuoyuan Wang
+email: zhanghengmin@126.com
+description: Home Page of Hengmin Zhang
 baseurl: ""
-url: "https://claydon-wang.github.io/"
-repository: "Claydon-Wang/Claydon-Wang.github.io"
+url: "https://ZhangHengMin.github.io/"
+repository: "ZhangHengMin/ZhangHengMin.github.io"
 
 include:
   - .htaccess
