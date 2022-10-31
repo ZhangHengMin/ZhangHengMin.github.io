@@ -21,7 +21,7 @@ Dr Zhang is willing to dive into data-driven research including Machine Learning
 {{ article.date }} :
 <em>{{ article.headline }}</em>
 {% endfor %}
-<a href="{{ site.url }}{{ site.baseurl }}/allnews.html">see all news</a>
+<a href="{{ site.url }}{{ site.baseurl }}/allnews.html"></a>
 
 </div>
 
