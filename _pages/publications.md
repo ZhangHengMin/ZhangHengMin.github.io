@@ -1,7 +1,7 @@
 ---
-title: "Shuoyuan Wang - Publications"
+title: "Hengmin Zhang - Publications"
 layout: gridlay
-excerpt: "Shuoyuan Wang -- Publications."
+excerpt: "Hengmin Zhang -- Publications."
 sitemap: false
 permalink: /publications/
 ---
