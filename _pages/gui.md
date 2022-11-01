@@ -13,17 +13,17 @@ permalink: /gui/
 
 -  **Co-Principal Investigator (Co-PI)** for the National Science General/Young Fund of China
 
-### Awards 
+### Award 
 
 -  Excellent Post-doc of ECUST 2021
 
--  UM Macao Postdoctoral Associateship 2020 
+-  **UM Macao Postdoctoral Associateship** 2020 
 
 -  Excellent PhD’s Thesis of Jiangsu Province 2020
 
 -  Excellent PhD’s Thesis of NUST/CIE 2020
 
--  Shanghai Super Postdoctoral of Incentive Program 2019
+-  **Shanghai Super Postdoctoral of Incentive Program** 2019
 
 -  MIIT Innovation Entrepreneurship Fellowship 2018
 
