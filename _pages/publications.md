@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-### From 2020
+### 2020 --- 2022
 
 - **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
