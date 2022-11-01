@@ -9,22 +9,22 @@ permalink: /publications/
 
 ### Publications
 
-- **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. *IEEE Transactions on Neural Networks and Learning Systems*, DOI: 10.1109/TNNLS.2022.3183970. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+- <a**Zhang H**/a>, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 - **Zhang H**, Qian F, Zhang B, Du W, Qian J and Yang J. Incorporating Linear Regression Problems Into An Adaptive
-Framework with Feasible Optimizations[J]. IEEE Transactions on Multimedia, DOI: 10.1109/TMM.2022. 3171088. 
+Framework with Feasible Optimizations[J]. **IEEE Transactions on Multimedia, DOI: 10.1109/TMM.2022. 3171088. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 - **Zhang H**, Qian F, Shang F, Du W, Qian J and Yang J. Global Convergence Guarantees of (A)GIST for a Family of
-Noncovex Sparse Learning Problems[J]. IEEE Transactions on Cybernetics, 2022, 52(5): 3276-3288. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+Noncovex Sparse Learning Problems[J]. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3276-3288. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 -  **Zhang H**, Gong C, Qian J, Zhang B, Xu C and Yang J. Efficient Recovery of Low Rank Matrix via Double
-Nonconvex Nonsmooth Rank Minimization[J]. IEEE Transactions on Neural Networks and Learning Systems, 2019,
+Nonconvex Nonsmooth Rank Minimization[J]. **IEEE Transactions on Neural Networks and Learning Systems**, 2019,
 30(10): 2916-2925. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 -  **Zhang H**, Qian J, Gao J, Yang J and Xu C. Scalable Proximal Jacobian Iteration Method with Global Convergence
-Analysis for Nonconvex Unconstrained Composite Optimizations[J]. IEEE Transactions on Neural Networks and
-Learning Systems, 2019, 30(9), 2825-2839. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+Analysis for Nonconvex Unconstrained Composite Optimizations[J]. **IEEE Transactions on Neural Networks and
+Learning Systems**, 2019, 30(9), 2825-2839. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 -  **Zhang H**, Yang J, Shang F, Gong C and Zhang Z. LRR for Subspace Segmentation via Tractable Schatten-p Norm
-Minimization and Factorization[J]. IEEE Transactions on Cybernetics, 2019, 49(5): 1722-1734.<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+Minimization and Factorization[J]. **IEEE Transactions on Cybernetics**, 2019, 49(5): 1722-1734.<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 -  **Zhang H**, Qian J, Zhang B, Yang J, Gong C and Wei Y. Low-Rank Matrix Recovery via Modified Schatten-p Norm
-Minimization with Convergence Guarantees[J]. IEEE Transactions on Image Processing, 2020, 29(0), 3132-3142. 
+Minimization with Convergence Guarantees[J]. **IEEE Transactions on Image Processing**, 2020, 29(0), 3132-3142. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
 {% for publi in site.data.publist %}
