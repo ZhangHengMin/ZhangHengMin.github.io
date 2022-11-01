@@ -8,7 +8,9 @@ permalink: /publications/
 
 
 ### Publications
-<p>I will release my related <a href="https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ">paper</a> once my paper is accepted.</p><br>
+<p>[10] Zhang H, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank
+Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. IEEE Transactions on
+Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2022.3183970.</p><br>
 
 {% for publi in site.data.publist %}
 
