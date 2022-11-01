@@ -9,7 +9,7 @@ permalink: /MIA/
 ### 1. Not End-to-End: Explore Multi-Stage Architecture for Online Surgical Phase Recognition. <a href="https://arxiv.org/abs/2107.04810">paper link</a>
 
 #### 1.1 Why Not End-to-End？
--  Refinement stage uses the output of predictor stage as input, so the performance of prediction is very important. Although you can achieve low error rate on trainset, which can be refined for better performance, base model will certainly make mistakes on the testset and make no sense to refinement (refining the error cannot boost performance.
+-  His research focuses on investigating very challenging nonconvex problems in pattern recognition, computer vision, and machine learning.
 - If we use the end-to-end strategy, the limited size of current datasets for surgery phase recognition cannot afford the refinement stage with additional parameters, which leads to overfitting on testset.
 
 
