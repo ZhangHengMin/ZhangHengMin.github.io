@@ -9,7 +9,7 @@ permalink: /gui/
 
 ### Project
 
--  **Principal Investigator (PI)** for the National Science Young Fund and the Postdoctoral Science Found of China, and the Jiangsu Province Graduate Student Training and Innovation
+-  **Principal Investigator (PI)** for the National Science Young Fund and the Postdoctoral Science Found of China
 
 -  **Co-Principal Investigator (Co-PI)** for the National Science Fund and the National Science Young Fund of China
 
