@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Publications
 
-- <a**Zhang H**/a>, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+- **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 - **Zhang H**, Qian F, Zhang B, Du W, Qian J and Yang J. Incorporating Linear Regression Problems Into An Adaptive
 Framework with Feasible Optimizations[J]. **IEEE Transactions on Multimedia, DOI: 10.1109/TMM.2022. 3171088. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
@@ -26,6 +26,24 @@ Minimization and Factorization[J]. **IEEE Transactions on Cybernetics**, 2019, 4
 -  **Zhang H**, Qian J, Zhang B, Yang J, Gong C and Wei Y. Low-Rank Matrix Recovery via Modified Schatten-p Norm
 Minimization with Convergence Guarantees[J]. **IEEE Transactions on Image Processing**, 2020, 29(0), 3132-3142. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+-  **Zhang H**, Yang J, Xie J, Qian J and Zhang B. Weighted Sparse Coding Regularized Nonconvex Matrix Regression
+for Robust Face Recognition[J]. **Information Sciences**, 2017, 394: 1-17. 
+<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+-  **Zhang H**, Yang J, Qian J, and Luo W. Nonconvex Relaxation based Matrix Regression for Face Recognition with
+Structural Noise and Mixed Noise[J]. **Neurocomputing**, 2017, 269: 188-198. 
+<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+-  **Zhang H**, Yang J and Zheng W. Research Progress of Low-Rank Matrix Approximation and Optimization
+Problem[J]. **Pattern Recognition and Artificial Intelligence**, 2018, 31(1): 23-36. (In Chinese)
+<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+
+
+
+
+
+
+
+
+
 
 {% for publi in site.data.publist %}
 
