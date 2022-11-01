@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 ### Publications
-- <p> Zhang H, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank
+- <p> **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank
 Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19">IEEE Transactions on
 Neural Networks and Learning Systems</a>, DOI: 10.1109/TNNLS.2022.3183970.</p><br>
 
