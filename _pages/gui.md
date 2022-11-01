@@ -29,5 +29,5 @@ permalink: /gui/
 
 -  Excellent Master’s Degree Thesis of CUMT 2013
 
--  National Graduate Fellowship 2012,2017
+-  National Graduate Fellowship 2012, 2017
  
