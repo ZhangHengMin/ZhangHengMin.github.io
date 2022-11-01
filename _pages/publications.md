@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-### From 2021 --
+### From 2021 
 
 - **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
@@ -150,8 +150,6 @@ Face Recognition[C]. **IEEE Asian Conference on Pattern Recognition (ACPR)**, 20
 
 
 ### Theses
-
-
 
 <p>To be continued</p><br>
 
