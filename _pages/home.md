@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 Dr Zhang received the B.S. degree from the School of Mathematics and Statistics, Heze University, Heze, China, in 2010, the M.S. degree from the College of Science, China University of Mining and Technology (CUMT), Xuzhou, China, in 2013, and the Ph.D. degree from the School of Computer Science and Engineering, Nanjing University of Science and Technology (NUST), Nanjing, China, in 2019. He was a Post-Doctoral Fellow with the School of Information Science and Engineering, East China University of Science and Technology (ECUST),
-Shanghai, China, from 2019 to 2021, and a Post-Doctoral Fellow with the Faculty of Science and Technology, University of Macau (UM), Macau, China, from 2021 to 2022. Curtently, I am Research Fellow with the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore, from 2022 to now. My research focuses on investigating challenging problems in pattern recognition, computer vision, and machine learning.  
+Shanghai, China, and a Post-Doctoral Fellow with the Faculty of Science and Technology, University of Macau (UM), Macau, China, from Jan. 2019 to Oct. 2022. Currently, I am Research Fellow with the School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore, from Nov. 2022. My research focuses on investigating challenging problems in pattern recognition, computer vision, and machine learning.  
 
 
  
