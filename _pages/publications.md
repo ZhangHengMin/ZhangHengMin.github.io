@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-### 2020 --- 2022
+### From 2021 --
 
 - **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
@@ -17,10 +17,6 @@ Framework with Feasible Optimizations[J]. **IEEE Transactions on Multimedia**, D
 
 - **Zhang H**, Qian F, Shang F, Du W, Qian J and Yang J. Global Convergence Guarantees of (A)GIST for a Family of
 Noncovex Sparse Learning Problems[J]. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3276-3288. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
-
--  **Zhang H**, Qian J, Zhang B, Yang J, Gong C and Wei Y. Low-Rank Matrix Recovery via Modified Schatten-p Norm
-Minimization with Convergence Guarantees[J]. **IEEE Transactions on Image Processing**, 2020, 29(0), 3132-3142. 
-<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
 -  Yu G, Ma L, Jin Y, Du W, Liu Q, and **Zhang H**. A Survey on Knee-oriented Multi-objective Evolutionary
 Optimization[J]. **IEEE Transactions on Evolutionary Computation**, DOI: 10.1109/TEVC.2022.3144880.
@@ -33,19 +29,23 @@ Image Classification[J]. **IEEE Transactions on Cybernetics**, 2022, 52(3): 1553
 - **Zhang H**, Luo W, Du W, Qian J and Yang J. Robust Recovery of Low Rank Matrix by Nonconvex Rank
 Regularization[C]. **International Conference on Image and Graphics (ICIG)**, 2021: 106-119.
 
+-  Qian J, Zhu S, Wong W, **Zhang H**, Lai Z, and Yang J. Dual Robust Regression for Pattern Classification[J].
+**Information Sciences**, 2021, 546: 1014-1029. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+
+### Before 2020
+
+-  **Zhang H**, Qian J, Zhang B, Yang J, Gong C and Wei Y. Low-Rank Matrix Recovery via Modified Schatten-p Norm
+Minimization with Convergence Guarantees[J]. **IEEE Transactions on Image Processing**, 2020, 29(0), 3132-3142. 
+<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+
 - **Zhang H**, Du W, Li Z, Liu X, Long J and Qian F. Nonconvex Rank Relaxations based Matrix Regression for Face
 Reconstruction and Recognition[C]. **China Automation Congress (CAC)**, 2020: 2335-2340.
 
 - **Zhang H**, Du W, Liu X, Zhang B and Qian F. Factored Trace Lasso based Linear Regression Methods: Optimizations and Applications[C]. **International Conference on Cognitive Systems and Information Processing (ICCSIP)**, 2020,
 121-130.
 
--  Qian J, Zhu S, Wong W, **Zhang H**, Lai Z, and Yang J. Dual Robust Regression for Pattern Classification[J].
-**Information Sciences**, 2021, 546: 1014-1029. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
-
 - Luo W, **Zhang H**, Li J, Wei X. Learning Semantically Enhanced Feature for Fine-Grained Image Classification[J].
 **IEEE Signal Processing Letters**, 2020, 27: 1545-1549. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
-
-### Before 2020
 
 -  **Zhang H**, Gong C, Qian J, Zhang B, Xu C and Yang J. Efficient Recovery of Low Rank Matrix via Double
 Nonconvex Nonsmooth Rank Minimization[J]. **IEEE Transactions on Neural Networks and Learning Systems**, 2019,
@@ -83,12 +83,6 @@ for Face Recognition[J]. **Pattern Recognition**, 2016, 59: 26-41.
 
 -  **Zhang H**, Luo W, Yang J and Luo L. Locality-constrained Group Sparse Coding Regularized NMR for Robust
 Face Recognition[C]. **IEEE Asian Conference on Pattern Recognition (ACPR)**, 2015: 740-744.
-
-
-
-
-
-
 
 
 
