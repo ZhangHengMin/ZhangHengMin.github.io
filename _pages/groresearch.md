@@ -6,13 +6,13 @@ sitemap: false
 permalink: /groresearch/
 ---
 
-###  Group （NA）
+###  **Group** （NA）
 
 -  **Coming**
 
 
 
-### Research 
+### **Research** 
 
 - **Learning with Structured Sparseness and Low-rankness**:  Due to special structures of various data, it can be potentially to take advantage these merits for characting residual function and regularized term. Using these property is necessary to remove redundancy and maintain principal information followed by mining other noval concepts. Giving the explainable structures for exact learning, it
 will be very useful for task-originated applications, e.g., image classification/inpainting, subspace clustering.

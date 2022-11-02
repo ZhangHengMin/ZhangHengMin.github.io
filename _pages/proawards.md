@@ -7,17 +7,15 @@ permalink: /proawards/
 ---
 
 
-### Project
+### **Project**
 
 -  **Principal Investigator (PI)** for the National Science Young Fund and the Postdoctoral Science General/Special Found of China
 
 -  **Co-Principal Investigator (Co-PI)** for the National Science General/Young Fund of China
 
-### Award 
+### **Award** 
 
 -  Excellent Post-doc of ECUST 2021
-
--  UM Macao Postdoctoral Associateship 2020 
 
 -  **Excellent PhD’s Thesis of NUST/Jiangsu/CIE** 2020
 
