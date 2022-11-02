@@ -31,7 +31,7 @@ Dr Zhang is a Research Fellow with the School of Electrical and Electronic Engin
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="85%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="75%" />
   </ul>
 
   <!-- <br clear="all" /> -->
