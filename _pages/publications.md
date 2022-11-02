@@ -9,7 +9,7 @@ permalink: /publications/
 ### Book Chapter 
 
 - Yang J, Cui Z, Xu C, Qian J, Gong C, **Zhang H** and Jin Z. Artificial intelligence: Pattern Recognition. 
-**Electronic Industry Press**, Aug. 2020. (In Chinese)
+**Electronic Industry Press**, Aug. 2020. 
 
 ### From 2021 
 
@@ -22,7 +22,7 @@ Framework with Feasible Optimizations[J]. **IEEE Transactions on Multimedia**, D
 - **Zhang H**, Qian F, Shang F, Du W, Qian J and Yang J. Global Convergence Guarantees of (A)GIST for a Family of
 Noncovex Sparse Learning Problems[J]. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3276-3288. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
--  Yu G, Ma L, Jin Y, Du W, Liu Q, and **Zhang H**. A Survey on Knee-oriented Multi-objective Evolutionary
+-  Yu G, Ma L, Jin Y, Du W, Liu Q and **Zhang H**. A Survey on Knee-oriented Multi-objective Evolutionary
 Optimization[J]. **IEEE Transactions on Evolutionary Computation**, DOI: 10.1109/TEVC.2022.3144880.
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
@@ -33,7 +33,7 @@ Image Classification[J]. **IEEE Transactions on Cybernetics**, 2022, 52(3): 1553
 - **Zhang H**, Luo W, Du W, Qian J and Yang J. Robust Recovery of Low Rank Matrix by Nonconvex Rank
 Regularization[C]. **International Conference on Image and Graphics (ICIG)**, 2021: 106-119.
 
--  Qian J, Zhu S, Wong W, **Zhang H**, Lai Z, and Yang J. Dual Robust Regression for Pattern Classification[J].
+-  Qian J, Zhu S, Wong W, **Zhang H**, Lai Z and Yang J. Dual Robust Regression for Pattern Classification[J].
 **Information Sciences**, 2021, 546: 1014-1029. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
 ### Before 2020
@@ -45,8 +45,7 @@ Minimization with Convergence Guarantees[J]. **IEEE Transactions on Image Proces
 - **Zhang H**, Du W, Li Z, Liu X, Long J and Qian F. Nonconvex Rank Relaxations based Matrix Regression for Face
 Reconstruction and Recognition[C]. **China Automation Congress (CAC)**, 2020: 2335-2340.
 
-- **Zhang H**, Du W, Liu X, Zhang B and Qian F. Factored Trace Lasso based Linear Regression Methods: Optimizations and Applications[C]. **International Conference on Cognitive Systems and Information Processing (ICCSIP)**, 2020,
-121-130.
+- **Zhang H**, Du W, Liu X, Zhang B and Qian F. Factored Trace Lasso based Linear Regression Methods: Optimizations and Applications[C]. **International Conference on Cognitive Systems and Information Processing (ICCSIP)**, 2020, 121-130.
 
 - Luo W, **Zhang H**, Li J, Wei X. Learning Semantically Enhanced Feature for Fine-Grained Image Classification[J].
 **IEEE Signal Processing Letters**, 2020, 27: 1545-1549. <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
@@ -66,13 +65,12 @@ Minimization and Factorization[J]. **IEEE Transactions on Cybernetics**, 2019, 4
 for Robust Face Recognition[J]. **Information Sciences**, 2017, 394: 1-17. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
--  **Zhang H**, Yang J, Qian J, and Luo W. Nonconvex Relaxation based Matrix Regression for Face Recognition with
+-  **Zhang H**, Yang J, Qian J and Luo W. Nonconvex Relaxation based Matrix Regression for Face Recognition with
 Structural Noise and Mixed Noise[J]. **Neurocomputing**, 2017, 269: 188-198. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
 -  **Zhang H**, Yang J and Zheng W. Research Progress of Low-Rank Matrix Approximation and Optimization
-Problem[J]. **Pattern Recognition and Artificial Intelligence**, 2018, 31(1): 23-36. (In Chinese)
-<a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
+Problem[J]. **Pattern Recognition and Artificial Intelligence**, 2018, 31(1): 23-36. 
 
 -  Gong C, **Zhang H**, Yang J and Tao D. Learning with Inadequate and Incorrect Supervision[C]. **IEEE International
 Conference on Data Mining (ICDM)**, 2017: 889-894.
@@ -81,7 +79,7 @@ Conference on Data Mining (ICDM)**, 2017: 889-894.
 Face Recognition[J]. **IEEE Transactions on Image Processing**, 2017, 26(5), 2286-2295. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
--  Chen Y, Yang J, Luo L, **Zhang H**, Qian J, Tai Y, and Zhang J. Adaptive Noise Dictionary Construction via IRRPCA
+-  Chen Y, Yang J, Luo L, **Zhang H**, Qian J, Tai Y and Zhang J. Adaptive Noise Dictionary Construction via IRRPCA
 for Face Recognition[J].  **Pattern Recognition**, 2016, 59: 26-41. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 

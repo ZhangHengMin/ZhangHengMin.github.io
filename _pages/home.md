@@ -1,5 +1,5 @@
 ---
-title: "Hengmin Zhang - Home"
+title: "Hengmin Zhang - Homepage"
 layout: gridlay
 excerpt: "Hengmin Zhang"
 sitemap: false
