@@ -1,9 +1,9 @@
 ---
-title: "Hengmin Zhang - GUI for HAR"
+title: "Hengmin Zhang - PA"
 layout: gridlay
-excerpt: "Hengmin Zhang -- GUI for HAR"
+excerpt: "Hengmin Zhang -- PA"
 sitemap: false
-permalink: /gui/
+permalink: /proawards/
 ---
 
 
@@ -17,11 +17,9 @@ permalink: /gui/
 
 -  Excellent Post-doc of ECUST 2021
 
--  **UM Macao Postdoctoral Associateship** 2020 
+-  UM Macao Postdoctoral Associateship 2020 
 
--  Excellent PhD’s Thesis of Jiangsu Province 2020
-
--  Excellent PhD’s Thesis of NUST/CIE 2020
+-  **Excellent PhD’s Thesis of NUST/Jiangsu/CIE** 2020
 
 -  **Shanghai Super Postdoctoral of Incentive Program** 2019
 
