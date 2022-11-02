@@ -146,12 +146,7 @@ Face Recognition[C]. **IEEE Asian Conference on Pattern Recognition (ACPR)**, 20
 <p> &nbsp; </p>
 
 
-### Book Chapter
-
-<p>
-- Yang J, Cui Z, Xu C, Qian J, Gong C, **Zhang H** and Jin Z. Artificial intelligence: Pattern Recognition. 
-**Electronic Industry Press**, Aug. 2020. (In Chinese)
-</p><br>
+ 
 
 {% for publi in site.data.theseslist limit:6 %}
 
