@@ -11,6 +11,8 @@ permalink: /publications/
 - Yang J, Cui Z, Xu C, Qian J, Gong C, **Zhang H** and Jin Z. Artificial intelligence: Pattern Recognition. 
 **Electronic Industry Press**, Aug. 2020. 
 
+#
+
 ### **From 2021** 
 
 - **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970.  
@@ -32,6 +34,8 @@ Regularization[C]. **International Conference on Image and Graphics (ICIG)**, 20
 
 -  Qian J, Zhu S, Wong W, **Zhang H**, Lai Z and Yang J. Dual Robust Regression for Pattern Classification[J].
 **Information Sciences**, 2021, 546: 1014-1029.  
+
+#
 
 ### **Before 2020**
 
@@ -79,6 +83,8 @@ for Face Recognition[J].  **Pattern Recognition**, 2016, 59: 26-41.
 
 -  **Zhang H**, Luo W, Yang J and Luo L. Locality-constrained Group Sparse Coding Regularized NMR for Robust
 Face Recognition[C]. **IEEE Asian Conference on Pattern Recognition (ACPR)**, 2015: 740-744.
+
+#
 
 {% for publi in site.data.publist %}
 
