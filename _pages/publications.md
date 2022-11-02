@@ -146,9 +146,9 @@ Face Recognition[C]. **IEEE Asian Conference on Pattern Recognition (ACPR)**, 20
 <p> &nbsp; </p>
 
 
-### Theses
+{% ### Theses%} 
 
-<p>To be continued</p><br>
+<p>{%To be continued%} </p><br>
 
 {% for publi in site.data.theseslist limit:6 %}
 
@@ -207,9 +207,10 @@ Face Recognition[C]. **IEEE Asian Conference on Pattern Recognition (ACPR)**, 20
  </div>
 </div>
 
-{% endfor %}
+{% endfor %} 
 
 <p> &nbsp; </p>
+
 
 <!-- ## Full List
 
