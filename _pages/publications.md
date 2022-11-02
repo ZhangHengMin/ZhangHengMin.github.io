@@ -6,6 +6,10 @@ sitemap: false
 permalink: /publications/
 ---
 
+### Book Chapter 
+
+- Yang J, Cui Z, Xu C, Qian J, Gong C, **Zhang H** and Jin Z. Artificial intelligence: Pattern Recognition. 
+**Electronic Industry Press**, Aug. 2020. (In Chinese)
 
 ### From 2021 
 
