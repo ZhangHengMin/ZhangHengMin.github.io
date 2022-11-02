@@ -1,9 +1,9 @@
 ---
-title: "Hengmin Zhang - MIA"
+title: "Hengmin Zhang - GR"
 layout: gridlay
-excerpt: "Hengmin Zhang -- MIA"
+excerpt: "Hengmin Zhang -- GR"
 sitemap: false
-permalink: /MIA/
+permalink: /groresearch/
 ---
 
 ###  Group （NA）
