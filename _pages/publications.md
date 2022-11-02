@@ -62,15 +62,15 @@ Learning Systems**, 2019, 30(9), 2825-2839. <a href=" http://proceedings.mlr.pre
 Minimization and Factorization[J]. **IEEE Transactions on Cybernetics**, 2019, 49(5): 1722-1734.
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
+-  **Zhang H**, Yang J and Zheng W. Research Progress of Low-Rank Matrix Approximation and Optimization
+Problem[J]. **Pattern Recognition and Artificial Intelligence**, 2018, 31(1): 23-36. 
+
 -  **Zhang H**, Yang J, Xie J, Qian J and Zhang B. Weighted Sparse Coding Regularized Nonconvex Matrix Regression
 for Robust Face Recognition[J]. **Information Sciences**, 2017, 394: 1-17. 
 <a href=" http://proceedings.mlr.press/v70/dauphin17a"> [Code] </a>
 
 -  **Zhang H**, Yang J, Qian J and Luo W. Nonconvex Relaxation based Matrix Regression for Face Recognition with
 Structural Noise and Mixed Noise[J]. **Neurocomputing**, 2017, 269: 188-198.  
-
--  **Zhang H**, Yang J and Zheng W. Research Progress of Low-Rank Matrix Approximation and Optimization
-Problem[J]. **Pattern Recognition and Artificial Intelligence**, 2018, 31(1): 23-36. 
 
 -  Gong C, **Zhang H**, Yang J and Tao D. Learning with Inadequate and Incorrect Supervision[C]. **IEEE International
 Conference on Data Mining (ICDM)**, 2017: 889-894.
