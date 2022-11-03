@@ -42,7 +42,7 @@ Minimization with Convergence Guarantees[J]. **IEEE Transactions on Image Proces
 - **Zhang H**, Du W, Li Z, Liu X, Long J and Qian F. Nonconvex Rank Relaxations based Matrix Regression for Face
 Reconstruction and Recognition[C]. **China Automation Congress (CAC)**, 2020: 2335-2340.
 
-- **Zhang H**, Du W, Liu X, Zhang B and Qian F. Factored Trace Lasso based Linear Regression Methods: Optimizations and Applications[C]. **International Conference on Cognitive Systems and Information Processing (ICCSIP)**, 2020, 121-130.
+- **Zhang H**, Du W, Liu X, Zhang B and Qian F. Factored Trace Lasso based Linear Regression Methods: Optimizations and Applications[C]. **International Conference on Cognitive Systems and Information Processing (ICCSIP)**, 2020, 121-130.
 
 - Luo W, **Zhang H**, Li J, Wei X. Learning Semantically Enhanced Feature for Fine-Grained Image Classification[J].
 **IEEE Signal Processing Letters**, 2020, 27: 1545-1549.  
