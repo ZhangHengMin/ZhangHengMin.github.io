@@ -77,8 +77,6 @@ Face Recognition[J]. **IEEE Transactions on Image Processing**, 2017, 26(5), 228
 -  Chen Y, Yang J, Luo L, **Zhang H**, Qian J, Tai Y and Zhang J. Adaptive Noise Dictionary Construction via IRRPCA
 for Face Recognition[J].  **Pattern Recognition**, 2016, 59: 26-41.  
 
--  **Zhang H**, Luo W, Yang J and Luo L. Locality-constrained Group Sparse Coding Regularized NMR for Robust
-Face Recognition[C]. **IEEE Asian Conference on Pattern Recognition (ACPR)**, 2015: 740-744.
 
 {% for publi in site.data.publist %}
 
