@@ -16,7 +16,7 @@ permalink: /
 
 Dr Zhang is a Research Fellow with the School of Electrical and Electronic Engineering, **Nanyang Technological University (NTU)**, Singapore. Prior to that, he received the Ph.D. degree from the School of Computer Science and Engineering, *Nanjing University of Science and Technology (NUST)*, Nanjing, China.   
 
-
+His research areas are Pattern Recognition, Numerical Optimization, Machine Learning, and Intelligent System.
  
 
 ### **News**
@@ -31,7 +31,7 @@ Dr Zhang is a Research Fellow with the School of Electrical and Electronic Engin
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="90%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="80%" />
   </ul>
 
   <!-- <br clear="all" /> -->
