@@ -57,7 +57,7 @@ Learning Systems**, 2019, 30(9), 2825-2839.
 
 -  **Zhang H**, Yang J, Shang F, Gong C and Zhang Z. LRR for Subspace Segmentation via Tractable Schatten-p Norm
 Minimization and Factorization[J]. **IEEE Transactions on Cybernetics**, 2019, 49(5): 1722-1734.
-<a href=" https://github.com/ZhangHengMin/SpNM-SpNF-LRR.git"> [Code] </a>
+<a href=" https://github.com/ZhangHengMin/TcybNonLRRSC"> [Code] </a>
 
 -  **Zhang H**, Yang J and Zheng W. Research Progress of Low-Rank Matrix Approximation and Optimization
 Problem[J]. **Pattern Recognition and Artificial Intelligence**, 2018, 31(1): 23-36. 
