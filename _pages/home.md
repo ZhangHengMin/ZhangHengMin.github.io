@@ -31,7 +31,7 @@ His research areas are Pattern Recognition, Numerical Optimization, Machine Lear
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="80%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="85%" />
   </ul>
 
   <!-- <br clear="all" /> -->
