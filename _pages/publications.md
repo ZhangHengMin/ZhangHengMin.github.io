@@ -22,7 +22,7 @@ Framework with Feasible Optimizations[J]. **IEEE Transactions on Multimedia**, D
 Noncovex Sparse Learning Problems[J]. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3276-3288.  
 
 -  Yu G, Ma L, Jin Y, Du W, Liu Q and **Zhang H**. A Survey on Knee-oriented Multi-objective Evolutionary
-Optimization[J]. **IEEE Transactions on Evolutionary Computation**, DOI: 10.1109/TEVC.2022.3144880. 
+Optimization[J]. **IEEE Transactions on Evolutionary Computation**, 2022, 26(6): 1452-1472.
 
 - Qian J, Wong W, **Zhang H**, Xie J and Yang J. Joint Optimal Transport with Convex Regularization for Robust
 Image Classification[J]. **IEEE Transactions on Cybernetics**, 2022, 52(3): 1553-1564. 
