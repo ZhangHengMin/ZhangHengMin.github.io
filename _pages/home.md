@@ -31,7 +31,7 @@ His research interests are mostly related to the domains of pattern recognition,
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="85%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/myself.jpg" class="img-responsive" width="100%" />
   </ul>
 
   <!-- <br clear="all" /> -->
