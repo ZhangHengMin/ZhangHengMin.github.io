@@ -16,7 +16,7 @@ permalink: /
 
 Dr. Zhang is a Research Fellow with the School of Electrical and Electronic Engineering, **Nanyang Technological University (NTU)**, Singapore. Before that, he received the Ph.D. degree from the School of Computer Science and Engineering, *Nanjing University of Science and Technology (NUST)*, Nanjing, China.   
 
-His research interests are in the domain of pattern recognition, numerical optimization, machine learning, and intelligent system, especially in the topics of developing effective, efficient, flexible, and interpretable computation techniques for sparse coding, low-rank matrix recovery, and tensor decomposition problems, which are applied to low-level tasks, the supervised/unsupervised/semi-supervised learning, the system identification, and so on.  
+His research interests are in the domain of pattern recognition, numerical optimization, machine learning, and intelligent system, especially in the topics of developing effective, efficient, flexible, and interpretable computation techniques for sparse coding, low-rank matrix recovery, and tensor decomposition problems, which are applied to low-level tasks, the supervised/unsupervised/semi-supervised learning, the system identification, etc.  
  
 
 ### **News**
