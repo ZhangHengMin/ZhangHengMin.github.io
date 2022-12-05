@@ -22,7 +22,7 @@ Framework with Feasible Optimizations[J]. **IEEE Transactions on Multimedia**, D
 - **Zhang H**, Qian F, Shang F, Du W, Qian J and Yang J. Global Convergence Guarantees of (A)GIST for a Family of
 Noncovex Sparse Learning Problems[J]. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3276-3288.  
 
-- Li S, **Zhang H**,  Ma R, Zhou J, Wen J and Zhang B. Linear Discriminant Analysis with Generalized Kernel Constraint for Robust Image Classification[J]. **Pattern Recognition**, 2023, 136: 10919.
+- Li S, **Zhang H**,  Ma R, Zhou J, Wen J and Zhang B. Linear Discriminant Analysis with Generalized Kernel Constraint for Robust Image Classification[J]. **Pattern Recognition**, 2023, 136:10919.
 
 - Yu G, Ma L, Jin Y, Du W, Liu Q and **Zhang H**. A Survey on Knee-oriented Multi-objective Evolutionary
 Optimization[J]. **IEEE Transactions on Evolutionary Computation**, 2022, 26(6): 1452-1472.
