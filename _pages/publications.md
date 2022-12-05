@@ -13,6 +13,7 @@ permalink: /publications/
 
 ### **From 2021** 
 
+
 - **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970.  
 
 - **Zhang H**, Qian F, Zhang B, Du W, Qian J and Yang J. Incorporating Linear Regression Problems Into An Adaptive
@@ -21,7 +22,9 @@ Framework with Feasible Optimizations[J]. **IEEE Transactions on Multimedia**, D
 - **Zhang H**, Qian F, Shang F, Du W, Qian J and Yang J. Global Convergence Guarantees of (A)GIST for a Family of
 Noncovex Sparse Learning Problems[J]. **IEEE Transactions on Cybernetics**, 2022, 52(5): 3276-3288.  
 
--  Yu G, Ma L, Jin Y, Du W, Liu Q and **Zhang H**. A Survey on Knee-oriented Multi-objective Evolutionary
+- Li S, **Zhang H**,  Ma R, Zhou J, Wen J and Zhang B. Linear Discriminant Analysis with Generalized Kernel Constraint for Robust Image Classification[J]. **Pattern Recognition**, 2023, 136：10919.
+
+- Yu G, Ma L, Jin Y, Du W, Liu Q and **Zhang H**. A Survey on Knee-oriented Multi-objective Evolutionary
 Optimization[J]. **IEEE Transactions on Evolutionary Computation**, 2022, 26(6): 1452-1472.
 
 - Qian J, Wong W, **Zhang H**, Xie J and Yang J. Joint Optimal Transport with Convex Regularization for Robust
