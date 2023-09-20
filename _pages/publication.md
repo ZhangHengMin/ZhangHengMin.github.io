@@ -1,7 +1,7 @@
 ---
-title: "Hengmin Zhang - Publication"
+title: "Hengmin Zhang - Publications"
 layout: gridlay
-excerpt: "Hengmin Zhang -- Publication."
+excerpt: "Hengmin Zhang -- Publications"
 sitemap: false
 permalink: /publication/
 ---
