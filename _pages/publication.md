@@ -3,7 +3,7 @@ title: "Hengmin Zhang - Publications"
 layout: gridlay
 excerpt: "Hengmin Zhang -- Publications"
 sitemap: false
-permalink: /publication/
+permalink: /publications/
 ---
 
 ### **Book Chapter** 
