@@ -6,12 +6,12 @@ sitemap: false
 permalink: /publication/
 ---
 
-### *Book Chapter* 
+-  **Book Chapter**
 
 - Yang J, Cui Z, Xu C, Qian J, Gong C, **Zhang H** and Jin Z. Artificial intelligence: Pattern Recognition. 
 **Electronic Industry Press**, Aug. 2020. 
 
-### *From 2021* 
+-  **From 2021**
 
 
 - **Zhang H**, Qian F, Shi P, Du W, Tang Y, Qian J, Gong C and Yang J. Generalized Nonconvex Nonsmooth Low-rank Matrix Recovery Framework with Feasible Algorithm Designs and Convergence Analysis[J]. **IEEE Transactions on Neural Networks and Learning Systems**, DOI: 10.1109/TNNLS.2022.3183970.  
@@ -36,7 +36,7 @@ Regularization[C]. **International Conference on Image and Graphics (ICIG)**, 20
 -  Qian J, Zhu S, Wong W, **Zhang H**, Lai Z and Yang J. Dual Robust Regression for Pattern Classification[J].
 **Information Sciences**, 2021, 546: 1014-1029.  
 
-### *Before 2020*
+-  **Before 2020**
 
 -  **Zhang H**, Qian J, Zhang B, Yang J, Gong C and Wei Y. Low-Rank Matrix Recovery via Modified Schatten-p Norm
 Minimization with Convergence Guarantees[J]. **IEEE Transactions on Image Processing**, 2020, 29(0), 3132-3142. 
