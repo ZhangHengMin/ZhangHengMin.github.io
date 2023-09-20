@@ -1,16 +1,11 @@
 ---
-title: "Hengmin Zhang - Research"
+title: "Hengmin Zhang - Research Projects"
 layout: gridlay
-excerpt: "Hengmin Zhang -- Research"
+excerpt: "Hengmin Zhang -- Research Projects"
 sitemap: false
 permalink: /research/
 ---
-
-###  **Group** （NA）
-
--  **Coming**
-
-
+  
 
 ### **Research** 
 
