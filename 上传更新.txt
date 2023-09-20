@@ -1,0 +1,5 @@
+1. 进入academicpages.github.io文件夹
+2. 在空地方右击鼠标，选择git bash here
+3. 输入git add .
+4. git commit -m "备注"
+5. git push origin master
