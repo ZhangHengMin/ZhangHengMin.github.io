@@ -1,9 +1,9 @@
 ---
-title: "Hengmin Zhang - Publications"
+title: "Hengmin Zhang - Publication"
 layout: gridlay
-excerpt: "Hengmin Zhang -- Publications."
+excerpt: "Hengmin Zhang -- Publication."
 sitemap: false
-permalink: /publications/
+permalink: /publication/
 ---
 
 ### **Book Chapter** 

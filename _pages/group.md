@@ -1,9 +1,9 @@
 ---
-title: "Hengmin Zhang - GR"
+title: "Hengmin Zhang - Group Members"
 layout: gridlay
-excerpt: "Hengmin Zhang -- GR"
+excerpt: "Hengmin Zhang -- Group Members"
 sitemap: false
-permalink: /groresearch/
+permalink: /group/
 ---
 
 ###  **Group** （NA）
