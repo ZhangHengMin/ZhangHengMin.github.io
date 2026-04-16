@@ -1245,7 +1245,7 @@ pre {
 }
 
 #news {
-    counter-reset: item 4; /* 总数+1（因为第一个递减后得到总数） */
+    counter-reset: item 5; /* 总数+1（因为第一个递减后得到总数） */
     list-style: none;
     padding-left: 0;
 }
